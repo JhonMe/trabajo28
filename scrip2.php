@@ -4,6 +4,7 @@
   $numero2=6;
   $suma = $numero1+$numero2;
   echo"$numero1+$numero2";
+  echo"<br>";
   echo "la suma es:",$suma;
 
 ?>
